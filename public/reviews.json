@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Joshua Clark",
+        "text": "Getting coached by him feels like being wrapped in your favorite cozy blanket. Safe, warm, and comforting, too.",
+        "ratting": 5,
+        "photo": "https://avada.theme-fusion.com/handyman/wp-content/uploads/sites/156/2021/04/testimonial-5-male-200x200.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Bryan Shultz",
+        "text": "He also helped me gain a totally different perspective on something that had been frustrating me for years. Thank goodness!",
+        "ratting": 4.5,
+        "photo": "https://avada.theme-fusion.com/handyman/wp-content/uploads/sites/156/2021/10/avatar-01-200x200.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Siobhan Adams",
+        "text": "Getting coached by him feels like being wrapped in your favorite cozy blanket. Safe, warm, and comforting, too.",
+        "ratting": 4,
+        "photo": "https://avada.theme-fusion.com/handyman/wp-content/uploads/sites/156/2021/04/testimonial-4-female-200x200.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Lisa Davis",
+        "text": "I loved working with him! He not only cared deeply about what I was going through, he got results. Working with him helped me gain more freedom",
+        "ratting": 3.5,
+        "photo": "https://avada.theme-fusion.com/handyman/wp-content/uploads/sites/156/2021/04/testimonial-3-female-200x200.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Chris Johnson",
+        "text": "Working with him helped me gain more freedom from the patterns of fear and self-doubt that I struggled with as I pursue my calling of becoming a life coach.",
+        "ratting": 3,
+        "photo": "https://avada.theme-fusion.com/handyman/wp-content/uploads/sites/156/2021/04/testimonial-2-male-200x200.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Jonson Trimph",
+        "text": "Getting coached by him feels like being wrapped in your favorite cozy blanket. Safe, warm, and comforting, too.",
+        "ratting": 5,
+        "photo": "https://avada.theme-fusion.com/extreme-sports/wp-content/uploads/sites/162/2021/10/user-review-1-200x200.jpg"
+    }
+]

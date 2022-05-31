@@ -1,0 +1,23 @@
+[
+    {
+        "id": "124e13b9",
+        "name": "Freedom Mentoring 1 week",
+        "price": 600,
+        "des": "In my flagship 1 week coaching program, I work with high-performers who want to break free of the mental and emotional limitations of fear, lack of confidence, emotional reactivity, and poor discipline so that they can stop surviving and start thriving.",
+        "img": "https://images.unsplash.com/photo-1543357480-c60d40007a3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&q=80"
+    },
+    {
+        "id": "13cbc7ed",
+        "name": "Freedom Mentoring 15 Days",
+        "price": 1200,
+        "des": "In my flagship 15 Days coaching program, I work with high-performers who want to break free of the mental and emotional limitations of fear, lack of confidence, emotional reactivity, and poor discipline so that they can stop surviving and start thriving.",
+        "img": "https://images.unsplash.com/photo-1492681290082-e932832941e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&q=80"
+    },
+    {
+        "id": "307f166f",
+        "name": "Freedom Mentoring 1 Month",
+        "price": 3500,
+        "des": "In my flagship 1 Month coaching program, I work with high-performers who want to break free of the mental and emotional limitations of fear, lack of confidence, emotional reactivity, and poor discipline so that they can stop surviving and start thriving.",
+        "img": "https://images.unsplash.com/photo-1504194104404-433180773017?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=640&q=80"
+    }
+]
